@@ -1,7 +1,8 @@
 # 5-Tahap-Membuat-Dashboard-Admin-Untuk-Kemudahan-Programmer-Dengan-ReactJS-dan-TailwindCS
 
 ## SINOPSIS
-Kemudahan Programmer Dengan ReactJS dan
+Kami menyampaikan tuntunan praktis 5 Tahap Menjadi Dashboard
+Admin UntukKemudahan Programmer Dengan ReactJS dan
 TailwindCSS ini kepada para pembaca yang terhormat. Karena
 hanya dengan karuniaNya kami dapat menyelesaikan buku ini.
 Buku ini membahas langkah demi langkah bahasa pemrograman
